@@ -1,0 +1,24 @@
+{
+	"name": "RealBlackBoard",
+	"displayName": "RealBlackBoard Theme",
+	"description": "RealBlackBoard Theme ported from the RealBlackBoard TextMate Theme",
+	"version": "0.0.2",
+	"publisher": "CB9TOIIIA",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/CB9TOIIIA/Theme-RealBlackBoard/blob/master/README.md",
+	"contributes": {
+		"themes": [
+			{
+				"label": "RealBlackBoard",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RealBlackBoard.tmTheme"
+			}
+		]
+	}
+}
