@@ -4,7 +4,7 @@ A theme based on the [Blackboard TextMate Theme](http://colorsublime.com/theme/B
 
 
 ## Screenshot
-![](https://raw.githubusercontent.com/CB9TOIIIA/VSCodeThemes/master/CB9TOIIIA.Theme-Blackboard/screenshot.PNG).
+![](http://img-fotki.yandex.ru/get/9512/77677229.86/0_ab5eb_7046288a_orig.PNG).
 
 
 ## More Information
